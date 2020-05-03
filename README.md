@@ -4,3 +4,12 @@ This project was made during the online training of docker under initiative IIEC
 LinuxWorld Informatics Pvt Ltd. The project is made using the topics taught to us during the online lectures and with my passion to learn because of which I was active on internet to learn and understand the concepts. 
 
 I am very thankful to such a great initiative from IIEC RISE.
+
+The Project is breakdown for better understanding.
+•	Docker Platform
+•	Container in action
+•	File Compose
+•	Swarm Cluster
+•	Container Persistence
+•	Networking
+
