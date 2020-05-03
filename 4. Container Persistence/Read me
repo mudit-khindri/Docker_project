@@ -1,4 +1,4 @@
-Lab IV: Persist a container's state and data
+﻿Lab IV: Persist a container's state and data
 ===============================
 
 This part is WIP.
@@ -80,7 +80,4 @@ $ docker volume create --name=<yourVolumeName2> --opt=volumetype=io1 --opt=iops=
 This command will take a few seconds, but the output will be the name of the volume that has been created.
 
 
-## Congratulations!!
-
-You have created containers with the same persistent volume that enables portability between hosts!
 
